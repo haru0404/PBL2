@@ -1,8 +1,6 @@
-# PBL2  
-docs の中に設計書などを入れる
+# PBL2（キョクログ）  
+docs（設計書など）
 
-programsの中にhtml, phpなどを入れる
-
-
+programs（html, phpなど）  
 programs/view(htmlが記述されるファイル)/各cssディレクトリ  
-======/methods(各関数などが記述されたファイルはここへ)
+======/methods(各関数などが記述されたファイル)
